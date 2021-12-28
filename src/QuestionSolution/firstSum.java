@@ -17,5 +17,7 @@ public class firstSum {
         }
         System.out.println(sum);
 
+
+
     }
 }
