@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ab811-b4e3-4422-be19-536aacb7a680" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/QuestionSolution/Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuestionSolution/Avg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuestionSolution/firstSum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findFirstCharacter">
+  <component name="RunManager" selected="Application.firstSum">
     <configuration name="Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuestionSolution.Avg" />
       <module name="codingNinjas" />
@@ -71,13 +71,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="firstSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuestionSolution.firstSum" />
+      <module name="codingNinjas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuestionSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Avg" />
       <item itemvalue="Application.findFirstCharacter" />
+      <item itemvalue="Application.firstSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.firstSum" />
         <item itemvalue="Application.findFirstCharacter" />
         <item itemvalue="Application.Avg" />
         <item itemvalue="Application.Main" />
