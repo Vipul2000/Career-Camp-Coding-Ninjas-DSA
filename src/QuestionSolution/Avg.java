@@ -1,4 +1,4 @@
-/*Write a program to input a name(as a single character) and marks of
+/*question:-Write a program to input a name(as a single character) and marks of
   three tests as m1, m2, and m3 of a student considering all the three marks
   have been given in integer format. */
 
