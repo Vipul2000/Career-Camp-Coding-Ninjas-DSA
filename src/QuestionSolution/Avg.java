@@ -19,6 +19,8 @@ public class Avg {
         int avg=(m1+m2+m3)/3;
         System.out.println(str);
         System.out.print(avg);
+
+
     }
 
 }
