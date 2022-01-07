@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ab811-b4e3-4422-be19-536aacb7a680" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/squarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/traingularStarPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codingNinjas/QuestionSolution/FactorsSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuestionSolution/FactorsSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuestionSolution/factorsSolution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
