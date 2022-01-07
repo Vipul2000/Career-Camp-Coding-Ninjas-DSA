@@ -1,4 +1,4 @@
-/*Write a program to print all the factors of a number other than 1 and the number itself.*/.
+/*Write a program to print all the factors of a number other than 1 and the number itself.*/
 
 
 
@@ -6,7 +6,7 @@ package QuestionSolution;
 
 import java.util.Scanner;
 
-public class FactorsSolution {
+public class factorsSolution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

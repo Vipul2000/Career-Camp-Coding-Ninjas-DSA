@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ab811-b4e3-4422-be19-536aacb7a680" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QuestionSolution/FactorsSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/squarePattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingNinjas/QuestionSolution/FactorsSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuestionSolution/FactorsSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuestionSolution/factorsSolution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,9 @@
   </component>
   <component name="ProjectId" id="22sLe1Fd57ypQtO24rezTDBhDsh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactorsSolution">
+  <component name="RunManager" selected="Application.Avg">
     <configuration name="Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuestionSolution.Avg" />
       <module name="codingNinjas" />
@@ -62,12 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="factorsSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factorsSolution" />
       <module name="codingNinjas" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,19 +102,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Avg" />
       <item itemvalue="Application.findFirstCharacter" />
       <item itemvalue="Application.firstSum" />
       <item itemvalue="Application.FactorsSolution" />
+      <item itemvalue="Application.factorsSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factorsSolution" />
         <item itemvalue="Application.FactorsSolution" />
         <item itemvalue="Application.firstSum" />
         <item itemvalue="Application.findFirstCharacter" />
         <item itemvalue="Application.Avg" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +136,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
